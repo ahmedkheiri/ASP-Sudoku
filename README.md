@@ -2,7 +2,7 @@
 
 This repository contains the data and code for the work presented at IEEE 2023 Congress on Evolutionary Computation.
 
-Please cite the following paper if you used any of these resources: Danielle Notice, Ahmed Kheiri and Nicos G. Pavlidis (2023) The algorithm selection problem for solving Sudoku with metaheuristics. In 2023 IEEE Congress on Evolutionary Computation (CEC)
+Please cite the following paper if you used any of these resources: Danielle Notice, Ahmed Kheiri and Nicos G. Pavlidis (2023) The algorithm selection problem for solving Sudoku with metaheuristics. In 2023 IEEE Congress on Evolutionary Computation (CEC), Chicago, IL, USA, pages 1-8
 
 In this work we study the algorithm selection problem and instance space analysis  for solving Sudoku puzzles with metaheuristic algorithms. 
 We formulate Sudoku as a combinatorial optimisation problem and implement four local-search metaheuristics to solve the problem instances. 
